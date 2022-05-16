@@ -1,7 +1,9 @@
 # House Rocket Insights Project
 This repository contains all files regarding the house rocket insight project made by myself.
 
-This project is fictitonal, but built upon real data made available in Kaggle. The data reflects property sales in the city of Seattle between 2014 and 2015, and we will use the sale value imagining that this is a portfolio of properties available for sale and the purchase price will be the sale value.
+This project is fictitonal, but built upon real data made available in Kaggle. The data reflects property sales in the city of Seattle between 2014 and 2015, and we will use the sale value imagining that this is a portfolio of properties available for sale and the purchase price will be the sale value. 
+
+Interactive dashboard link: https://house-rocket-insights-andre.herokuapp.com/
 
 ![N|Solid](https://www.homes.com/images/national-state/hero-for-sale.jpeg)
 
