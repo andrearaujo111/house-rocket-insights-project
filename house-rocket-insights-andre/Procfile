@@ -1,0 +1,1 @@
+web: sh setup.sh && streamlit run C:\Users\andre\repos\projects\insights-project-00\house_rocket_app.py
