@@ -1,14 +1,14 @@
 # House Rocket Insights Project
 This repository contains all files regarding the house rocket insight project made by myself.
 
-This project is fictitonal, but built upon real data made available in Kaggle. The data reflects property sales in the city of Seattle between 2014 and 2015, and we will use the sale value imagining that this is a portfolio of properties available for sale and the purchase price will be the sale value. 
+This project is fictitonal, but built upon real data made available in Kaggle. The data reflects property sales in the city of Seattle between 2014 and 2015, and we will use the sale value imagining that this is a portfolio of properties available for sale and the purchase price will be the sale value. **The result of the analysis is uplodead online at a application hosted on Heroku Cloud.**
 
 Interactive dashboard link: https://house-rocket-insights-andre.herokuapp.com/
 
 ![N|Solid](https://www.homes.com/images/national-state/hero-for-sale.jpeg)
 
 ### The company
-House Rocket is a fictional company that buys properties in US for a small price and offer them for sale at a higher price.
+House Rocket is a fictional company that trades properties in US for a small price and offer them for sale at a higher price.
 
 ### Business problem
 Find properties that are good deals, a good deal being one that is bought at a low price and resold at a high price .
