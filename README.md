@@ -44,7 +44,7 @@ Raised business hypotheses that can help generate insights into the purchase pri
 
 ### Financial Expectations 
 
-The portfolio have a potential to generate aroud **$1.2B** in profit if all properties are bought. Imagining that this is hard to get, if we imagine 1% of them bought (aprox 210 properties), the profit could reach **12M**.
+The portfolio have a potential to generate aroud **$1.2B** in profit if all properties are bought. Imagining that this is hard to get, if we imagine 1% of them bought (aprox 210 properties), the profit could reach **$12M**.
 
 ### Insights
 - Properties with a waterfont view are 200% more expensive on average. Getting one of these properties for a low price represents good business
